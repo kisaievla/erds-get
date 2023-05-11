@@ -1,6 +1,6 @@
 {
     "data":[
-        {
+        {"B-000001945-003W":{
             "id": "B-000001945-003W",
             "type": "ANTIBODY_DRUG_CONJUGATE",
             "link": "https://iapi-test.merck.com/rlsc-entity-registration/v1/entities/B-000001945-003W",
@@ -226,6 +226,6 @@
                 "notebookId": null,
                 "targetSiteName": null
             }
-        }
+        }}
     ]
 }
