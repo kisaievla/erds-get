@@ -1,7 +1,7 @@
 {
   "DAB000001_001": {
     "myid": "DAB000001_001",
-    "isValid": true,
+    "status": "found",
     "antibodyType": "mAb",
     "concentration": 3.86,
     "concentrationUnit": "mg/mL",
