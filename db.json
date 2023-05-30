@@ -1,11 +1,12 @@
 {
   "DAB000001_001": {
-    "myid": "DAB000001_001",
+    "entityId": "DAB000001_001",
     "status": "found",
     "antibodyType": "mAb",
     "concentration": 3.86,
     "concentrationUnit": "mg/mL",
-    "materialBatchId": "B-000394732-000U001",
+    "bioregId": "DAB000001_001",
+    "batchBnumber": "B-000394732-000U001",
     "formulation": "BUF000212",
     "createdDate": "03 May 2023 12:28:38",
     "extinctionCoefficient": 55850,
@@ -22,6 +23,6 @@
     "source": "HD-BIOP3 cells were provided by Bo Jiang Kenilworth, Lot# 150171259",
     "subcultivationRatio": "subculture every 3-4 days with a split ratio 1:4",
     "batchNotes": "Recovery condition: Suspend cell pellet/vial in 10-15mL medium in shaker flask, without puromycin before 1st passaging",
-    "legacyId": null
+    "legacyId": "07XC"
   }
 }
