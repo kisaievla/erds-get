@@ -1,5 +1,6 @@
 {
-    "DAB008815_003": {
+    "data": [
+        {
         "entityId": "DAB008815_003",
         "status": "found",
         "antibodyType": null,
@@ -25,5 +26,6 @@
         "batchNotes": "9275-P6, B-000054792-000G1",
         "lotType": "77AHF",
         "reagentType": "ANTIBODY_COMPLEX"
-    }
+        }
+    ]
 }
