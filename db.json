@@ -1,31 +1,6 @@
 {
-    "data": [
-        {
-        "entityId": "DAB008815_003",
-        "status": "found",
-        "antibodyType": null,
-        "concentration": 11.55,
-        "concentrationUnit": "mg/ml",
-        "bioregId": null,
-        "batchBNumber": "B-000054792-000G001",
-        "formulationBuffer": null,
-        "createdDate": "2014-09-03 00:00:00",
-        "extinctionCoefficient": 0,
-        "framework": null,
-        "isotype": null,
-        "merkName": "Humanized x [F11_H] mAb (Bayer#20 076D-M007-H04-CDRL3-N110D) IgG4 S228P / Kappa",
-        "molecularWeight": 0,
-        "isoelectricPoint": null,
-        "batchSypplier": null,
-        "genetarget": null,
-        "parentEntityID": null,
-        "conjugationMethod": null,
-        "batchBankType": null,
-        "source": null,
-        "subcultivationRatio": null,
-        "batchNotes": "9275-P6, B-000054792-000G1",
-        "lotType": "77AHF",
-        "reagentType": "ANTIBODY_COMPLEX"
-        }
+    "buffers": [
+        "BUF000033-44% NaAcetate, 44 M MSA, pH 4",
+        "BUF000033-44% NaAcetate, 44 M MSA, pH 4"
     ]
 }
