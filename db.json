@@ -1,6 +1,12 @@
 {
     "data": [
-        "BUF000033-44% NaAcetate, 44 M MSA, pH 4",
-        "BUF000033-44% NaAcetate, 44 M MSA, pH 4"
+        {
+            "bioregId": "BUF000033",
+            "merckName": "44% NaAcetate, 44 M MSA, pH 4"
+        },
+        {
+            "bioregId": "BUF000044",
+            "merckName": "44% NaAcetate, 44 M MSA, pH 4"
+        }
     ]
 }
