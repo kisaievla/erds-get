@@ -1,5 +1,5 @@
 {
-    "data": [
+    "data":
       {
         "proteinVariant1": "CDH17-18",
         "proteinVariant2": "CDH17-11",
@@ -114,5 +114,4 @@
         "mrlLabelID": 0,
         "minimumNumberOfVials": 0
       }
-    ]
   }
