@@ -1,7 +1,12 @@
 {
-    "data": {
-            "bioregId": "BUF000033 - 44% NaAcetate, 44 M MSA, pH 4",
-            "comments": "djshflk",
-            "bNumber": "ksdjnfkjsd"
-    } 
+    "data": [
+        {
+            "bioregId": "BUF000033 - 44% NaAcetate, 44 M MSA, pH 4"
+
+        },
+        {
+            "bioregId": "BUF000044 - 44% NaAcetate, 44 M MSA, pH 4"
+
+        }
+    ]
 }
